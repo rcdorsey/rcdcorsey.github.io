@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Another page
-description: This is just another page
+title: Rosemary Dorsey
+description: Something here
 ---
 
 ## Welcome to another page
 
-_yay_
+Some text.
 
-[back](./)
+[back to homepage](./)
