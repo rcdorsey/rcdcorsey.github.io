@@ -13,7 +13,7 @@ description: "xENTER HERE"
   {% for photo_page in photo_pages %}
     <li>
       <a href="{{ photo_page.url | prepend: site.baseurl }}">{{ photo_page.title }}</a>
-      <img src="{{ site.baseurl }}/assets/images/photos/{{ page.photos.photo_page }}-{{ 1 }}.png">
+      <img src="{{ site.baseurl }}/assets/images/photos/{{ photo_page.title }}-{{ 1 }}.png">
     </li>
   {% endfor %}
 </ul>
