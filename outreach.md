@@ -1,7 +1,7 @@
 ---
 layout: photo_set
 title: Outreach
-description: "An example photo gallery."
+description: "My adventures in astronomy outreach at the University of Canterbury"
 
 photos:
     set: outreach
