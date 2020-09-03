@@ -12,8 +12,8 @@ description: "xENTER HERE"
   {% assign photo_pages = site.pages | where: "layout", "photo_set" %}
   {% for photo_page in photo_pages %}
     <li>
-      <a href="{{ photo_page.url | prepend: site.baseurl }}">{{ photo_page.title }}</a>
       <img src="{{ site.baseurl }}/assets/images/photos/{{ photo_page.title }}-{{ 1 }}.png">
+      <a align="center" href="{{ photo_page.url | prepend: site.baseurl }}">{{ photo_page.title }}</a>
     </li>
   {% endfor %}
 </ul>
