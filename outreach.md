@@ -1,7 +1,6 @@
 ---
 layout: photo_set
-title: Berlin
-permalink: /berlin/
+title: Outreach
 description: "An example photo gallery."
 
 photos:
