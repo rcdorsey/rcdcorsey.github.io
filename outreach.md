@@ -7,5 +7,6 @@ photos:
     set: outreach
     size: 1
 
-caption-1: x
+captions:
+    c1: X
 ---
