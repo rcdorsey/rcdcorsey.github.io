@@ -13,6 +13,8 @@ description: "ENTER HERE"
   {% for photo_page in photo_pages %}
     <li>
       <img src="{{ site.baseurl }}/assets/images/photos/{{ photo_page.title }}-{{ 1 }}.png">
+    </li>
+    <li>
       <a align="center" href="{{ photo_page.url | prepend: site.baseurl }}">{{ photo_page.title }}</a>
     </li>
   {% endfor %}
