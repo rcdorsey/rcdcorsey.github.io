@@ -299,7 +299,10 @@ a {
     }
   }
 
-  ul,
+  ul {
+    list-style-type: none;
+  }
+  
   ol {
     margin-top: 0;
   }
