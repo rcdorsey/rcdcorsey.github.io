@@ -7,6 +7,6 @@ layout: default
 <ul>
   {% for i in (1..num) %}
     <img src="{{ site.baseurl }}/assets/images/photos/{{ page.photos.set }}-{{ i }}.png" alt="Photo {{ i }} from {{ page.photos.set | capitalize }}">
-    <h2 class="main-content" style="colour:$body-text-color">{{page.caption-i}}</h2>
+    <h2 class="main-content" style="color:$body-text-color">{{page.caption-i}}</h2>
   {% endfor %}
 </ul>
