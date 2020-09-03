@@ -6,4 +6,6 @@ description: "An example photo gallery."
 photos:
     set: outreach
     size: 1
+
+caption1: x
 ---
