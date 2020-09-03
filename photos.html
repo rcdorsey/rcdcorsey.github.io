@@ -12,7 +12,7 @@ description: "ENTER HERE"
   {% assign photo_pages = site.pages | where: "layout", "photo_set" %}
   {% for photo_page in photo_pages %}
     <li>
-      <a href="{{ photo_page.url | prepend: site.baseurl }}">{{ photo_page.title x }}</a>
+      <a href="{{ photo_page.url | prepend: site.baseurl }}">{{ photo_page.title }}</a>
       <img src="{{ site.baseurl }}/assets/images/photos/{{ photo_page }}-{{ 1 }}.png" alt="Photo {{ 1 }} from {{ page.photos.set | capitalize }}">
     </li>
   {% endfor %}
