@@ -8,5 +8,5 @@ photos:
     size: 1
 
 captions:
-    c1: X
+    c-1: X
 ---
