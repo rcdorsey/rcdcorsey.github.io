@@ -124,6 +124,12 @@ a {
   }
 }
 
+.nav {
+  color: $header-heading-color;
+  text-align: center;
+  background-color: $header-bg-color;
+}  
+
 .project-name {
   margin-top: 0;
   margin-bottom: 0.1rem;
