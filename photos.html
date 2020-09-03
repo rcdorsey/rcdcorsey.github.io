@@ -13,7 +13,7 @@ description: "ENTER HERE"
   {% for photo_page in photo_pages %}
     <li>
       <a href="{{ photo_page.url | prepend: site.baseurl }}">{{ photo_page.title }}</a>
-      <img src="{{ site.baseurl }}/assets/images/photos/{{ photo_page }}-{{ 1 }}.png" alt="Photo {{ 1 }} from {{ page.photos.set | capitalize }}">
+      <img src="{{ site.baseurl }}/assets/images/photos/{{ page.photos }}-{{ 1 }}.png" alt="Photo {{ 1 }} from {{ page.photos.set | capitalize }}">
     </li>
   {% endfor %}
 </ul>
