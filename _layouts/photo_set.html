@@ -1,14 +1,20 @@
 ---
 layout: default
 ---
-
+<!--
 {% assign num = page.photos.size %}
 
   {% for i in (1..num) %}
     <p><img src="{{ site.baseurl }}/assets/images/photos/{{ page.photos.set }}-{{ i }}.png"><br/>
-    <!--{% for item in page.captions %}
+    {% for item in page.captions %}
       {{ item.title }}<br/>&nbsp;</p>
-    {% endfor %}-->
+    {% endfor %}
+  {% endfor %}
+ -->
+
+  {% for image in page.images %}
+    <p><img src="{{ site.baseurl }}/assets/images/photos/{{ image.image }}"><br/>{{ image.caption }}</p>
   {% endfor %}
 
-hello world
+
+hello worl
