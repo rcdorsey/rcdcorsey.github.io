@@ -9,7 +9,9 @@ layout: default
 
   {% for i in (1..num) %}
     <p><img src="{{ site.baseurl }}/assets/images/photos/{{ page.photos.set }}-{{ i }}.png"><br/>
-    {{ page.caption }}-{{ i }}<br/>&nbsp;</p>
+    {% for item in page.captions %}
+      {{ item.title }}<br/>&nbsp;</p>
+    {% endfor %}
   {% endfor %}
 
-hello wor
+hello world
