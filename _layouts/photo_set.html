@@ -7,11 +7,9 @@ layout: default
 
 {% assign num = page.photos.size %}
 
-<ul>
   {% for i in (1..num) %}
-    <img src="{{ site.baseurl }}/assets/images/photos/{{ page.photos.set }}-{{ i }}.png">
-    <h2>{{ $gallery_Outreach_desc_1 }}</h2>
+    <p><img src="{{ site.baseurl }}/assets/images/photos/{{ page.photos.set }}-{{ i }}.png"><br/>
+    This is the caption<br/>&nbsp;</p>
   {% endfor %}
-</ul>
 
 hello world
