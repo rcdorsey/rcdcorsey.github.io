@@ -2,6 +2,9 @@
 layout: default
 ---
 
+I am currently researching in the field of Planetary Science as part of my PhD with Michele Bannister at the University of Canterbury, New Zealand.
+
+
 My favourite astronomical object is the Sombrero Galaxy (M104 or NGC 4594):
 ![Sombrero](/assets/images/Sombrero-Galaxy.jpg)
 
