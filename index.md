@@ -2,9 +2,14 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+My favourite astronomical object is the Sombrero Galaxy (M104 or NGC 4594):
+![Sombrero](/assets/images/Sombrero-Galaxy.jpg)
 
-[Link to another page](./another-page.html).
+
+
+
+
+Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
