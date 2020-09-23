@@ -8,8 +8,11 @@ I am currently researching in the field of Planetary Science as part of my PhD w
 My previous research projects include:
 
 ~ Determining the modes of oscillation of five Southern Pulsating Stars
+
 ~ Computational modelling pf the observed geometry of white dwarf accretion disks within eclipsing cataclysmic variable systems for different white dwarf and binary system parameters in order to simulate the light curves of different types of cataclysmic variables
+
 ~ Characterising the star EPIC 250088244 and determining its membership to the Upper Scorpius region
+
 ~ Determining the spin and orbital periods of two cataclysmic variables
 
 My favourite astronomical object is the Sombrero Galaxy (M104 or NGC 4594):
