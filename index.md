@@ -14,6 +14,8 @@ My previous research projects include:
 
 ~ Determining the spin and orbital periods of two cataclysmic variables
 
+* * *
+
 My favourite astronomical object is the Sombrero Galaxy (M104 or NGC 4594):
 
 ![Sombrero](/assets/images/Sombrero-Galaxy.jpg)
