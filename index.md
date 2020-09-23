@@ -4,7 +4,7 @@ layout: default
 
 I am currently researching in the field of Planetary Science as part of my PhD with Michele Bannister at the University of Canterbury, New Zealand. My study involves using survey simulators to model the expected detections of various small Solar System body populations by Solar System surveys (such as the Vera C. Rubin Observatory's upcoming Legacy Survey of Space and Time) in order to improve our understanding of the orbital populations in the Solar System.
 
-My previous research projects include:
+###My previous research projects include:
 
 ~ Determining the modes of oscillation of five Southern Pulsating Stars
 
