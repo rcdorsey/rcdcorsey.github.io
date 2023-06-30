@@ -2,7 +2,11 @@
 layout: default
 ---
 
-I am currently researching in the field of Planetary Science as part of my PhD with Michele Bannister at the University of Canterbury, New Zealand. My study involves using survey simulators to model the expected detections of various small Solar System body populations by Solar System surveys (such as the Vera C. Rubin Observatory's upcoming Legacy Survey of Space and Time) in order to improve our understanding of the orbital populations in the Solar System.
+### Where am I and what am I doing?
+
+I am a Ph.D. student at the University of Canterbury (New Zealand), supervised by Michele Bannister with associate supervisors Samantha Lawler and Alex Parker. My research involves using survey simulators to model the expected detections of various small Solar System body populations by different in order to improve our understanding of their intrinsic populations.
+
+I applied the OSSOS survey simulator to a population of theoretically stable Centaurs between Uranus and Neptune; see my paper ...
 
 ### My previous research projects include:
 
