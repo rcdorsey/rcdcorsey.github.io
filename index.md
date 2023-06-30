@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Rosemary Dorsey
-description: Astronomy PhD Student
+description: Astronomy PhD Student (rosemary.dorsey@pg.canterbury.ac.nz)
 ---
 
 ## Who am I?
