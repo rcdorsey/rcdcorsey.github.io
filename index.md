@@ -1,5 +1,7 @@
 ---
 layout: default
+title: Rosemary Dorsey
+description: Astronomy PhD Student at the University of Canterbury, New Zealand
 ---
 
 ## Where am I and what am I doing?
