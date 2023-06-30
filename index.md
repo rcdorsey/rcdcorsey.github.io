@@ -24,6 +24,6 @@ At the moment, I am working on demonstrating the benefits of Bayesian inference 
 
 ~ Determining the spin and orbital periods of two cataclysmic variables
 
-## My favourite astronomical object (Sombrero Galaxy):
+### My favourite astronomical object (Sombrero Galaxy):
 
 ![Sombrero](/assets/images/Sombrero-Galaxy.jpg){: width="250" }
