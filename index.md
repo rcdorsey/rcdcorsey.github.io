@@ -9,6 +9,7 @@ I am a Ph.D. student at the University of Canterbury (New Zealand), supervised b
 ## Recent Publications:
 
 <a href="https://iopscience.iop.org/article/10.3847/PSJ/acd771">Dorsey et al. (2023)</a>: Applying the OSSOS survey simulator to a population of theoretically stable Centaurs between Uranus and Neptune to estimate a population size upper limit.
+
 <a href="https://iopscience.iop.org/article/10.3847/1538-4365/acc173">Schwamb et al. (2023)</a>: A summary of the LSST Solar System Science Collaboration's perspective and conclusions regarding the optimisation of the LSST observing cadence.
 
 ## My previous research projects include:
@@ -23,6 +24,6 @@ I am a Ph.D. student at the University of Canterbury (New Zealand), supervised b
 
 * * *
 
-### My favourite astronomical object is the Sombrero Galaxy (M104 or NGC 4594):
+## My favourite astronomical object (Sombrero Galaxy):
 
 ![Sombrero](/assets/images/Sombrero-Galaxy.jpg)
