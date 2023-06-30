@@ -2,15 +2,16 @@
 layout: default
 ---
 
-### Where am I and what am I doing?
+## Where am I and what am I doing?
 
 I am a Ph.D. student at the University of Canterbury (New Zealand), supervised by Michele Bannister with associate supervisors Samantha Lawler and Alex Parker. My research involves using survey simulators to model the expected detections of various small Solar System body populations by different in order to improve our understanding of their intrinsic populations.
 
 ## Recent Publications:
 
-<a href="https://iopscience.iop.org/article/10.3847/PSJ/acd771">Dorsey et al. (2023)</a>: Applying the OSSOS survey simulator to a population of theoretically stable Centaurs between Uranus and Neptune to estimate a population size upper limit 
+<a href="https://iopscience.iop.org/article/10.3847/PSJ/acd771">Dorsey et al. (2023)</a>: Applying the OSSOS survey simulator to a population of theoretically stable Centaurs between Uranus and Neptune to estimate a population size upper limit.
+<a href="https://iopscience.iop.org/article/10.3847/1538-4365/acc173">Schwamb et al. (2023)</a>: A summary of the LSST Solar System Science Collaboration's perspective and conclusions regarding the optimisation of the LSST observing cadence.
 
-### My previous research projects include:
+## My previous research projects include:
 
 ~ Determining the modes of oscillation of five Southern Pulsating Stars
 
