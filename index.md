@@ -26,4 +26,4 @@ I am a Ph.D. student at the University of Canterbury (New Zealand), supervised b
 
 ## My favourite astronomical object (Sombrero Galaxy):
 
-![Sombrero](/assets/images/Sombrero-Galaxy.jpg)
+![Sombrero](/assets/images/Sombrero-Galaxy.jpg){: width="250" }
