@@ -19,15 +19,22 @@ At the moment, I am working on demonstrating the benefits of Bayesian inference 
 ## Involvements
 
 ~ LSST Solar System Science Collaboration member
+
 ~ Comet Interceptor mission team member
 
 ## Previous Research Projects
 
 The following details my research as an undergraduate and Masters thesis student:
+
 ~ Determining the modes of oscillation of five Southern Pulsating Stars
+
 ~ Computational modelling pf the observed geometry of white dwarf accretion disks within eclipsing cataclysmic variable systems for different white dwarf and binary system parameters in order to simulate the light curves of different types of cataclysmic variables
+
 ~ Characterising the star EPIC 250088244 and determining its membership to the Upper Scorpius region
+
 ~ Determining the spin and orbital periods of two cataclysmic variables
 
-### Fun Fact: My favourite astronomical object is the Sombrero Galaxy (:
-![Sombrero](/assets/images/Sombrero-Galaxy.jpg){: width="250" }
+***
+
+#### Fun Fact: My favourite astronomical object is the Sombrero Galaxy (:
+![Sombrero](/assets/images/Sombrero-Galaxy.jpg){: width="500" }
